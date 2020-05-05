@@ -18,7 +18,6 @@ This easy to use logic simulator is valuable in both Digital Logic Design lectur
 ## Background and Motivation
 
 Digital Logic Design is a foundational course for many engineering and computer science students. The course includes laboratory projects in which students physically wire up various gates on a breadboard. We believe student learning can be accelerated and enhanced by the effective use of logic simulation software. A student can connect a logic circuit in lab and observe its functionality by flipping switches and watching LED’s light Additionally, debugging faulty circuits is often quicker with this type of tool, since all nodes are observable rather than just the inputs and outputs. After using logic simulation software, we have determined the following list of desirable characteristics:
-
 1. Easy to use Windows program
 2. Free or low cost
 3. Design complex circuit easily
@@ -49,7 +48,6 @@ User can make circuits in this software using basic gates. Just select a gate an
 ## Documentation
 
 1.	Final Report: The project report is written to introduce the function of the software and to introduce all buttons and their actions.
-
 2.	Poster Presentation: A attractive poster has made to introduce and give clear concept of the simulator. 
 
 ## Features
