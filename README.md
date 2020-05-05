@@ -49,15 +49,15 @@ User can make circuits in this software using basic gates. Just select a gate an
 
 ## Features
 
-•	This program can draw basic gates
-•	This program can wire up these gates
-•	It can evaluate any kind of complex diagram with these basic gates
-•	It can also show corresponding output of the evaluated circuit show flash in LED light
-•	User can delete any gate using delete button
-•	The whole frame can be cleared using clear button 
+1. This program can draw basic gates
+2.	This program can wire up these gates
+3.	It can evaluate any kind of complex diagram with these basic gates
+4.	It can also show corresponding output of the evaluated circuit show flash in LED light
+5.	User can delete any gate using delete button
+6.	The whole frame can be cleared using clear button 
 
 ## Conclusion
 
-This project was a success in many dimensions. The final result is a simple and basic application for digital logic design. Concept of java is more clear now after doing this poject. This work will also help us to develop any kind of simulator in future. 
+This project was a success in many dimensions. The final result is a basic application for digital logic design. Concept of java is more clear now after doing this poject.
 
 
