@@ -1,4 +1,4 @@
-# Digital-Logic-Simulator
+# Digital Logic Simulator
 
 ## Introduction
  
