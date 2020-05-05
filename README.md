@@ -13,22 +13,22 @@ This easy to use logic simulator is valuable in both Digital Logic Design lectur
 
 # Background and Motivation
 
-Digital Logic Design is a foundational course for many engineering and computer science students. The course includes laboratory projects in which students physically wire up various gates on a breadboard. We believe student learning can be accelerated and enhanced by the effective use of logic simulation software. A student can connect a logic circuit in lab and observe its functionality by flipping switches and watching LED’s light Additionally, debugging faulty circuits is often quicker with this type of tool, since all nodes are observable rather than just the inputs and outputs. After using logic simulation software, we have determined the following list of desirable characteristics.
+Digital Logic Design is a foundational course for many engineering and computer science students. The course includes laboratory projects in which students physically wire up various gates on a breadboard. We believe student learning can be accelerated and enhanced by the effective use of logic simulation software. A student can connect a logic circuit in lab and observe its functionality by flipping switches and watching LED’s light Additionally, debugging faulty circuits is often quicker with this type of tool, since all nodes are observable rather than just the inputs and outputs. After using logic simulation software, we have determined the following list of desirable characteristics:
 1. Easy to use Windows program
 2. Free or low cost
 3. Design complex circuit easily
 
 # Description of gates
 
-1. AND Gate:
+1. AND Gate
 
 The AND gate is a basic digital logic gate that implements logical construction - it behaves according to the truth table to the right. A HIGH output (1) results only if both the inputs to the AND gate are HIGH (1). If neither or only one input to the AND gate is HIGH, a LOW output results. In another sense, the function of AND effectively finds the minimum between two binary digits, just as the OR function finds the maximum. Therefore, the output is always 0 except when all the inputs are 1 (One).
 
-2. OR gate:
+2. OR gate
 
 The OR gate is a digital logic gate that implements logical disjunction - it behaves according to the truth table to the right. A HIGH output (1) results if one or both the inputs to the gate are HIGH (1). If neither input is high, a LOW output (0) results. In another sense, the function of OR effectively finds the maximum between two binary digits, just as the complementary AND function finds the minimum.
 
-3. NOT Gate:
+3. NOT Gate
 
 A NOT gate (also often called Inverter) is a logic gate. Each NOT gate has only one input signal. Logically with NOT gates, the input and the output swap, so if you input 1 it outputs as 0; likewise, if you input 0 it outputs as 1.
 
