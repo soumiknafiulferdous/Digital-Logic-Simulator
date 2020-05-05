@@ -35,3 +35,29 @@ A NOT gate (also often called Inverter) is a logic gate. Each NOT gate has only 
 ## How to use
 
 User can make circuits in this software using basic gates. Just select a gate and place it in the circuit plane. To send input to the gates user need to use switch and to see output user need to use Output. For wiring the gates user should select wire button. If any selected gate is not connected, user will get an error message. After connecting all the selected gates user have to select the run mode. then the circuit will function. To turn ON a switch just click on it (do same as to turn OFF). To delete a Gate press the delete button. Use clear button to clear the frame.
+
+## Requirements:
+
+1.	Platform: NetBeans IDE 8.1 
+2.	Language: Java
+
+## Documentation:
+
+1.	Final Report: The project report is written to introduce the function of the software and to introduce all buttons and their actions.
+
+2.	Poster Presentation: A attractive poster has made to introduce and give clear concept of the simulator. 
+
+## Features:
+
+•	This program can draw basic gates
+•	This program can wire up these gates
+•	It can evaluate any kind of complex diagram with these basic gates
+•	It can also show corresponding output of the evaluated circuit show flash in LED light
+•	User can delete any gate using delete button
+•	The whole frame can be cleared using clear button 
+
+## Conclusion:
+
+This project was a success in many dimensions. The final result is a simple and basic application for digital logic design. Concept of java is more clear now after doing this poject. This work will also help us to develop any kind of simulator in future. 
+
+
