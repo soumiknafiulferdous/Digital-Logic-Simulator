@@ -47,8 +47,8 @@ User can make circuits in this software using basic gates. Just select a gate an
 
 ## Documentation
 
-1.	Final Report: The project report is written to introduce the function of the software and to introduce all buttons and their actions.
-2.	Poster Presentation: A attractive poster has made to introduce and give clear concept of the simulator. 
+1.	Final Report: A project report is written to introduce the function of the software and to introduce all buttons and their actions.
+2.	Poster Presentation: A attractive poster has been made to introduce and give clear concept of the simulator. 
 
 ## Features
 
