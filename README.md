@@ -1,6 +1,6 @@
 # Digital Logic Simulator
 
-## Introduction
+## Overview
  
 A digital computer stores data in terms of digits (numbers) and proceeds in discrete steps from one state to the next. The states of a digital computer typically involve binary digits which may take the form of the presence or absence of magnetic markers in a storage medium, on-off switches or relays. In digital computers, even letters, words and whole texts are represented digitally. 
 
@@ -58,9 +58,5 @@ User can make circuits in this software using basic gates. Just select a gate an
 4.	It can also show corresponding output of the evaluated circuit show flash in LED light
 5.	User can delete any gate using delete button
 6.	The whole frame can be cleared using clear button 
-
-## Conclusion
-
-This project was a success in many dimensions. The final result is a basic application for digital logic design. Concept of java is more clear now after doing this poject.
 
 
