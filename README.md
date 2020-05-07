@@ -26,7 +26,7 @@ Digital Logic Design is a foundational course for many engineering and computer 
 
 1. AND Gate
 
-The AND gate is a basic digital logic gate that implements logical construction. A HIGH (1) output results only if both the inputs to the AND gate are HIGH (1). If neither or only one input to the AND gate is HIGH, a LOW (0) output results. In another sense, the function of AND effectively finds the minimum between two binary digits, just as the OR function finds the maximum. Therefore, the output is always 0 except when all the inputs are 1.
+The AND gate is a basic digital logic gate that implements logical conjunction. A HIGH (1) output results only if both the inputs to the AND gate are HIGH (1). If neither or only one input to the AND gate is HIGH, a LOW (0) output results. In another sense, the function of AND effectively finds the minimum between two binary digits, just as the OR function finds the maximum. Therefore, the output is always 0 except when all the inputs are 1.
 
 2. OR gate
 
