@@ -53,9 +53,9 @@ User can make circuits in this software using basic gates. They will just select
 ## Features
 
 1. This program can draw basic gates.
-2.	It can wire up these gates.
+2.	This program can wire up these gates.
 3.	It can evaluate any kind of complex circuits with these basic gates.
-4.	It can show corresponding output of the evaluated circuit by showing flash in LED light.
+4.	It can show corresponding output of the evaluated circuit by showing flash in LED lights.
 5.	User can delete any gate using the delete button.
 6.	The whole frame can be cleared using clear button.
 
