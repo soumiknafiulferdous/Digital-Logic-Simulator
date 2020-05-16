@@ -65,10 +65,10 @@ User can make circuits in this software using basic gates. They will just select
 Main Menu: 
 ![1](https://user-images.githubusercontent.com/30154496/82123711-9e145580-97bc-11ea-9198-ef16efd7a4b7.png)
 
-Introduction of Buttons:
+Start Simulator:
 ![22](https://user-images.githubusercontent.com/30154496/82123819-272b8c80-97bd-11ea-820b-cacf6f6d8708.png)
 
-Run the Simulator: 
+Running the Simulator: 
 ![3](https://user-images.githubusercontent.com/30154496/82123719-a40a3680-97bc-11ea-842c-8600cd8f13c4.png)
 
 
