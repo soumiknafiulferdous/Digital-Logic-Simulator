@@ -60,4 +60,7 @@ User can make circuits in this software using basic gates. They will just select
 6.	The whole frame can be cleared using clear button.
 
 
+## Screenshots
+
+
 
