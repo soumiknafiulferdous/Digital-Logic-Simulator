@@ -59,9 +59,5 @@ User can make circuits in this software using basic gates. They will just select
 5.	User can delete any gate using the delete button.
 6.	The whole frame can be cleared using clear button.
 
-## Screenshot:
-
-![final](https://user-images.githubusercontent.com/30154496/82123132-8d161500-97b9-11ea-8e4a-ee75e32a7b02.jpg)
-
 
 
