@@ -64,7 +64,9 @@ User can make circuits in this software using basic gates. They will just select
 
 ![1](https://user-images.githubusercontent.com/30154496/82123711-9e145580-97bc-11ea-9198-ef16efd7a4b7.png)
 
+
 ![2](https://user-images.githubusercontent.com/30154496/82123718-a2d90980-97bc-11ea-9ce8-3b42ba91b149.png)
+
 
 ![3](https://user-images.githubusercontent.com/30154496/82123719-a40a3680-97bc-11ea-842c-8600cd8f13c4.png)
 
