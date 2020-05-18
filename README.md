@@ -43,7 +43,7 @@ User can make circuits in this software using basic gates. They will just select
 ## Requirements
 
 1.	IDE: NetBeans 8.1 
-2.	Language: Java
+2.	Language: Java and Java GUI
 
 ## Documentation
 
