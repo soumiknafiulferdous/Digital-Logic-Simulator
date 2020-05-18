@@ -9,7 +9,6 @@ Digital Logic is the basis of electronic systems, such as computers and cell pho
 Digital logic design is foundational to the fields of electrical engineering and computer engineering. Digital logic designers build complex electronic components that use both electrical and computational characteristics. These characteristics may involve power, current, logical function, protocol and user input. Digital logic design is used to develop hardware, such as circuit boards and microchip processors. This hardware processes user input, system protocol and other data in computers, navigational systems, cell phones or other high-tech systems.
 
 
-
 ## Abstract
 
 This easy to use logic simulator is valuable in both digital logic design lectures and labs. The environment is graphical in nature and allows the users to quickly build a logic circuit by clicking and dragging components from the reasonably complete library of gates and functions including: AND, OR and NOT. One of the useful features of this simulator is that it creates wire in different colors. This allows the users to quickly understand how the logic is working. These colors also indicate if the system is not working properly and also help to correct mistakes. The freshman students using this program for the first time have found it to be stable, helpful and in some cases even fun to play with the design.
@@ -42,8 +41,9 @@ User can make circuits in this software using basic gates. They will just select
 
 ## Requirements
 
-1.	IDE: NetBeans 8.1 
-2.	Language: Java, Java GUI
+Language: Java, Java GUI
+
+IDE: NetBeans 8.1 
 
 ## Documentation
 
